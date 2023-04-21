@@ -1,0 +1,22 @@
+
+.main{
+    color:#2a2a63;
+    background-color: pink;
+    width: 670px;
+    margin: 0 auto;
+    padding: 15px 0px ;
+}
+.storkeBottom{
+    border-bottom: 3px solid #2a2a63;
+}
+.storkeLeft{
+    border-left: 3px solid #2a2a63;
+}
+p{
+    font-size: 14px;
+}
+.dots{
+    width: 10px; height: 10px; background-color:#2a2a63 ;
+    border-radius: 10px;
+     margin-left: 10px;
+}
